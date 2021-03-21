@@ -1,6 +1,6 @@
-<xml version="1.0" encoding= "UTF-8">
-<uygulama1>
+<? xml version="1.0" encoding= "UTF-8" ?>
 
+<uygulama1>
 <kaynak>
 <format> Basılı</format>
 <kitapad>Şeker Portakalı</kitapad>
